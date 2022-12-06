@@ -1,0 +1,33 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "description": "Authentication server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rehanjamil/Auth-Server.git"
+  },
+  "keywords": [
+    "authentication",
+    "react",
+    "native",
+    "authentication"
+  ],
+  "author": "Rehan The Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rehanjamil/Auth-Server/issues"
+  },
+  "homepage": "https://github.com/Rehanjamil/Auth-Server#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "mongose": "^0.0.2-security"
+  }
+}
